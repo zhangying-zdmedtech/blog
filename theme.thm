@@ -52,10 +52,10 @@
 			  <div class="panel panel-default">
 				<div class="panel-body">
 				  <div align="left">
-				  	<h4><small>学习链接</small></h4>
+				  	<h4><small>github</small></h4>
 				  </div>
 				  <hr>
-					<strong><a href="http://stdlib.daoapp.io" title="stdlib" rel="nofollow">gostd</a></strong>
+					<strong><a href="https://github.com/eijan" title="github" rel="nofollow">gostd</a></strong>
 				</div>
 			  </div>
 
@@ -110,7 +110,7 @@
 			<div class="row footer-bottom">
 				<ul class="list-inline text-center">
 					<div class="copy-right" style="color:#4d5152">
-						<h6><small>©2015-2017 toukii </small></h6>
+						<h6><small>©2015-2017 eijan </small></h6>
 					</div>
 				</ul>
 			</div>
