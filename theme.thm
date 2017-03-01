@@ -84,26 +84,26 @@
 		  <td class="value"><a href="/Item">0</a></td>
 		</tr>
 		<tr>
-		  <td class="status-label"><a href="/Linux">Linux</a></td>
-		  <td class="value"><a href="/Linux">0</a></td>
-		</tr>
-		<tr>
 		  <td class="status-label"><a href="/Note">Note</a></td>
 		  <td class="value"><a href="/Note">0</a></td>
+		</tr>
+		<tr>
+		  <td class="status-label"><a href="/Linux">Linux</a></td>
+		  <td class="value"><a href="/Linux">0</a></td>
 		</tr>
 	  </tbody>
 	</table>
   </div>
 
-<!-- <div class="panel panel-default">
+  <div class="panel panel-default">
 	<div class="panel-heading">
 	  <h3 class="panel-title">Recently</h3>
 	</div>
 	<div class="panel-content" align="center">
-		<h4><a href="/Recently">web-site</a></h4>
+		<h4><a href="/Recently">post</a></h4>
 	</div>
   </div>
- -->
+
 
 
 
